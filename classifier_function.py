@@ -162,3 +162,83 @@ def get_articlecat(risultato):
     else:
         cat_prob = []
     return cat_prob
+
+def ores_converter (ores_cat):
+  '''
+  Converting ORES category in new taxonomy
+  return: new category
+
+  new category:
+    art, culture and entertainment
+    history and geography 
+    internet and game
+    sport
+    STEM
+    other
+  '''
+  diz_cat = {
+  "Culture.Food and drink": "other",
+  "Culture.Internet culture": "internet and game",
+  "Culture.Linguistics": "arts, culture and entertainment",
+  "Culture.Literature": "arts, culture and entertainment",
+  "Culture.Media.Books": "arts, culture and entertainment",
+  "Culture.Media.Entertainment": "arts, culture and entertainment",
+  "Culture.Media.Films": "arts, culture and entertainment",
+  "Culture.Media.Media*": "arts, culture and entertainment",
+  "Culture.Media.Music": "arts, culture and entertainment",
+  "Culture.Media.Radio": "arts, culture and entertainment",
+  "Culture.Media.Software": "STEM",
+  "Culture.Media.Television": "arts, culture and entertainment",
+  "Culture.Media.Video games": "internet and game",
+  "Culture.Performing arts": "arts, culture and entertainment",
+  "Culture.Philosophy and religion": "arts, culture and entertainment",
+  "Culture.Sports": "sport",
+  "Culture.Visual arts.Architecture": "arts, culture and entertainment",
+  "Culture.Visual arts.Comics and Anime": "arts, culture and entertainment",
+  "Culture.Visual arts.Fashion": "arts, culture and entertainment",
+  "Culture.Visual arts.Visual arts*": "arts, culture and entertainment",
+  "Geography.Geographical": "history and geography",
+  "Geography.Regions.Africa.Africa*": "history and geography",
+  "Geography.Regions.Africa.Central Africa": "history and geography",
+  "Geography.Regions.Africa.Eastern Africa": "history and geography",
+  "Geography.Regions.Africa.Northern Africa": "history and geography",
+  "Geography.Regions.Africa.Southern Africa": "history and geography",
+  "Geography.Regions.Africa.Western Africa": "history and geography",
+  "Geography.Regions.Americas.Central America": "history and geography",
+  "Geography.Regions.Americas.North America": "history and geography",
+  "Geography.Regions.Americas.South America": "history and geography",
+  "Geography.Regions.Asia.Asia*": "history and geography",
+  "Geography.Regions.Asia.Central Asia": "history and geography",
+  "Geography.Regions.Asia.East Asia": "history and geography",
+  "Geography.Regions.Asia.North Asia": "history and geography",
+  "Geography.Regions.Asia.South Asia": "history and geography",
+  "Geography.Regions.Asia.Southeast Asia": "history and geography",
+  "Geography.Regions.Asia.West Asia": "history and geography",
+  "Geography.Regions.Europe.Eastern Europe": "history and geography",
+  "Geography.Regions.Europe.Europe*": "history and geography",
+  "Geography.Regions.Europe.Northern Europe": "history and geography",
+  "Geography.Regions.Europe.Southern Europe": "history and geography",
+  "Geography.Regions.Europe.Western Europe": "history and geography",
+  "Geography.Regions.Oceania": "history and geography",
+  "History and Society.Business and economics": "history and geography",
+  "History and Society.Education": "history and geography",
+  "History and Society.History": "history and geography",
+  "History and Society.Military and warfare": "history and geography",
+  "History and Society.Politics and government": "history and geography",
+  "History and Society.Society": "history and geography",
+  "History and Society.Transportation": "history and geography",
+  "STEM.Biology": "STEM",
+  "STEM.Chemistry": "STEM",
+  "STEM.Computing": "STEM",
+  "STEM.Earth and environment": "STEM",
+  "STEM.Engineering": "STEM",
+  "STEM.Libraries & Information": "STEM",
+  "STEM.Mathematics": "STEM",
+  "STEM.Medicine & Health": "STEM",
+  "STEM.Physics": "STEM",
+  "STEM.STEM*": "STEM",
+  "STEM.Space": "STEM",
+  "STEM.Technology": "STEM",
+  "other.category": "other"
+}
+  return diz_cat[ores_cat]
