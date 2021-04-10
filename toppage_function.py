@@ -11,14 +11,20 @@ def get_topart(year, month, day, limit):
     get_topart("2016","01","01",10) -> first ten pages for January 1st 2016
     '''
     import requests
-    URL = api_top(year,month,day)
-    # Start session
-    S = requests.Session()
+    url = api_top(year,month,day)
     # Start API call
     headers = {'User-Agent': "<r.rubini3@campus.unimibi.it> University project"}
-    page = requests.get(URL, headers=headers)
+    i=0
+    not_found=True
+    while i <30 and not_found:
+        try:
+            r = requests.get(url=url,timeout=20,headers=headers)
+            not_found=False
+        except ConnectionError:
+            time.sleep(1)
+            i += 1
     # Save result in json format
-    risultato = page.json()
+    risultato = r.json()
     # clean result
     ris_clean = clean_topart(risultato)
     # Select desired pages
@@ -76,7 +82,13 @@ def get_topday(year,month,day_list):
     top_day = []
     s = requests.session()
     for day in day_list:
-        url = api_top(year,month,day)
+        first_page = get_topart(year,month,day,limit=1)[0]
+        top_day.append(first_page)
+        s = requests.session()
+    d = 1
+    # get page_id
+    for articolo in top_day:
+        url = api_id(articolo["article"])
         # make api call
         i=0
         not_found=True
@@ -87,29 +99,10 @@ def get_topday(year,month,day_list):
             except ConnectionError:
                 time.sleep(1)
                 i += 1
-        ris = r.json()
-        ris_clean = clean_topart(ris)
-        first_page = ris_clean[0]
-        top_day.append(first_page)
-        s = requests.session()
-        d = 1
-        # get page_id
-        for articolo in top_day:
-            url = api_id(articolo["article"])
-            # make api call
-            i=0
-            not_found=True
-            while i <30 and not_found:
-                try:
-                    r = s.get(url=url,timeout=20)
-                    not_found=False
-                except ConnectionError:
-                    time.sleep(1)
-                    i += 1
-            page_id = get_pageid(r.json())
-            top_day[i]["page_id"] = page_id 
-            top_day[i]["day_of_month"] = d
-            d +=1
+        page_id = get_pageid(r.json())
+        articolo["page_id"] = page_id 
+        articolo["day_of_month"] = d
+        d +=1
     return top_day
 
 def api_id(title):
