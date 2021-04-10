@@ -77,7 +77,6 @@ def get_topday(year,month,day_list):
     s = requests.session()
     for day in day_list:
         url = api_top(year,month,day)
-        url = api_id(articolo["article"])
         # make api call
         i=0
         not_found=True
