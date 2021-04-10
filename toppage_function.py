@@ -71,29 +71,46 @@ def get_topday(year,month,day_list):
     day_31 = ["01","02",...,"30","31"]
     get_topday("2016","01",day_31) -> top page for each day in January 2016
     '''
+    import requests
+    import time
     top_day = []
-    urls = []
+    s = requests.session()
     for day in day_list:
         url = api_top(year,month,day)
-        urls.append(url)
-        risultato = async_call(urls,size=10)
-    for r in risultato:
+        url = api_id(articolo["article"])
+        # make api call
+        i=0
+        not_found=True
+        while i <30 and not_found:
+            try:
+                r = s.get(url=url,timeout=20)
+                not_found=False
+            except ConnectionError:
+                time.sleep(1)
+                i += 1
         ris = r.json()
         ris_clean = clean_topart(ris)
         first_page = ris_clean[0]
         top_day.append(first_page)
+        s = requests.session()
+        d = 1
         # get page_id
-        urls = []
         for articolo in top_day:
             url = api_id(articolo["article"])
-            urls.append(url)
-        result = async_call(urls,10)
-        i=0
-        for r in result:
+            # make api call
+            i=0
+            not_found=True
+            while i <30 and not_found:
+                try:
+                    r = s.get(url=url,timeout=20)
+                    not_found=False
+                except ConnectionError:
+                    time.sleep(1)
+                    i += 1
             page_id = get_pageid(r.json())
             top_day[i]["page_id"] = page_id 
-            top_day[i]["day_of_month"] = i+1
-            i+=1
+            top_day[i]["day_of_month"] = d
+            d +=1
     return top_day
 
 def api_id(title):
@@ -111,18 +128,3 @@ def get_pageid(risultato):
     page_inf = risultato["query"]["pages"]
     page_id = int(list(page_inf.keys())[0])
     return page_id
-
-def async_call(urls,size=10):
-    '''
-    Making parallel API requests
-    urls: list of urls to make API calls
-    size: number of requests at the same time
-    return: list of API calls results
-    '''
-    import grequests
-    import requests
-    session = requests.Session()
-    headers = {'User-Agent': "<r.rubini3@campus.unimibi.it> University project"}
-    reqs = [grequests.get(link, headers=headers,session=session) for link in urls]
-    resp = grequests.map(reqs,size=size)
-    return resp
