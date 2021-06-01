@@ -7632,7 +7632,7 @@ page_id,url,title,page_type,category,avg_views,avg_edits,words,creation_year,des
 201983,en.wikipedia.org/wiki/Coronavirus,Coronavirus,other,STEM,528729,20,4438,2003,group of related viruses that cause diseases in mammals and birds
 16805217,en.wikipedia.org/wiki/Qasem_Soleimani,Qasem_Soleimani,biography,history and geography,95114,30,5829,2008,Iranian senior military officer
 6021572,en.wikipedia.org/wiki/Kobe_Bryant_sexual_assault_case,Kobe_Bryant_sexual_assault_case,biography,history and geography,109385,1,1546,2006,legal case
-63147709,en.wikipedia.org/wiki/2019–20_Wuhan_coronavirus_outbreak,2019–20_Wuhan_coronavirus_outbreak,other,"arts, culture and entertainment",1017736,0,14323,2020,
+63147709,en.wikipedia.org/wiki/2019–20_Wuhan_coronavirus_outbreak,2019–20_Wuhan_coronavirus_outbreak,other,STEM,1017736,0,14323,2020,
 20090171,en.wikipedia.org/wiki/Under_arms,Under_arms,other,history and geography,49277,0,106,2008,carrying a weapon
 59566466,en.wikipedia.org/wiki/Deaths_in_2020,Deaths_in_2020,other,"arts, culture and entertainment",1861016,1283,35,2019,Wikimedia list article
 59102749,en.wikipedia.org/wiki/Royal_Rumble_(2020),Royal_Rumble_(2020),other,"arts, culture and entertainment",170732,50,3920,2018,2020 WWE pay-per-view and WWE Network event
@@ -7706,7 +7706,7 @@ page_id,url,title,page_type,category,avg_views,avg_edits,words,creation_year,des
 27169,en.wikipedia.org/wiki/San_Francisco_49ers,San_Francisco_49ers,other,sport,106555,23,16251,2001,American football team in the National Football League
 54141281,en.wikipedia.org/wiki/Claes_Bang,Claes_Bang,biography,"arts, culture and entertainment",28561,3,1042,2017,Danish actor
 4256071,en.wikipedia.org/wiki/Ammunition_technician,Ammunition_technician,other,history and geography,13776,0,1699,2006,
-62907619,en.wikipedia.org/wiki/2019–20_outbreak_of_novel_coronavirus_(2019-nCoV),2019–20_outbreak_of_novel_coronavirus_(2019-nCoV),other,"arts, culture and entertainment",84180,1,14323,2020,
+62907619,en.wikipedia.org/wiki/2019–20_outbreak_of_novel_coronavirus_(2019-nCoV),2019–20_outbreak_of_novel_coronavirus_(2019-nCoV),other,STEM,84180,1,14323,2020,
 61308055,en.wikipedia.org/wiki/Crash_Landing_on_You,Crash_Landing_on_You,other,"arts, culture and entertainment",459268,67,3649,2019,2019-2020 South Korean television series
 59924880,en.wikipedia.org/wiki/Street_Dancer_3D,Street_Dancer_3D,other,"arts, culture and entertainment",125521,51,1773,2019,2020 Indian Hindi-language dance drama film
 62628520,en.wikipedia.org/wiki/2020_Australian_Open_–_Men's_Singles,2020_Australian_Open_–_Men's_Singles,other,sport,70753,77,173,2019,
@@ -7762,7 +7762,7 @@ page_id,url,title,page_type,category,avg_views,avg_edits,words,creation_year,des
 57289704,en.wikipedia.org/wiki/Vikings_(season_6),Vikings_(season_6),other,"arts, culture and entertainment",95223,9,1055,2018,season of television series
 163430,en.wikipedia.org/wiki/John_Profumo,John_Profumo,biography,history and geography,25794,2,1465,2002,British politician (1915-2006)
 7218368,en.wikipedia.org/wiki/Caroline_Flack,Caroline_Flack,biography,"arts, culture and entertainment",135220,23,1890,2006,British actress
-63347546,en.wikipedia.org/wiki/2019–20_coronavirus_outbreak,2019–20_coronavirus_outbreak,other,"arts, culture and entertainment",1182273,0,14323,2020,
+63347546,en.wikipedia.org/wiki/2019–20_coronavirus_outbreak,2019–20_coronavirus_outbreak,other,STEM,1182273,0,14323,2020,
 189334,en.wikipedia.org/wiki/Locke_&_Key_(TV_series),Locke_&_Key_(TV_series),other,other,54444,19,1519,2018,Wikimedia disambiguation page
 61448719,en.wikipedia.org/wiki/Super_ShowDown_(2020),Super_ShowDown_(2020),other,"arts, culture and entertainment",122385,78,3458,2019,2020 WWE pay-per-view and WWE Network event
 3291957,en.wikipedia.org/wiki/Don't_repeat_yourself,Don't_repeat_yourself,other,"arts, culture and entertainment",48868,2,442,2005,Software Development Principle
@@ -7773,8 +7773,8 @@ page_id,url,title,page_type,category,avg_views,avg_edits,words,creation_year,des
 64245656,en.wikipedia.org/wiki/2020_Iowa_Democratic_caucuses,2020_Iowa_Democratic_caucuses,other,STEM,100941,0,4841,2020,
 25427,en.wikipedia.org/wiki/Rush_Limbaugh,Rush_Limbaugh,biography,"arts, culture and entertainment",89808,10,9405,2001,conservative radio talk show host
 59456333,en.wikipedia.org/wiki/2020_Democratic_Party_presidential_debates,2020_Democratic_Party_presidential_debates,other,history and geography,230497,205,7243,2018,debates for 2020 Democratic presidential nomination
-63347610,en.wikipedia.org/wiki/2019–20_coronavirus_outbreak_by_country_and_territory,2019–20_coronavirus_outbreak_by_country_and_territory,other,"arts, culture and entertainment",403328,1,1059,2020,
-63146949,en.wikipedia.org/wiki/2019–20_Wuhan_coronavirus_outbreak_by_country_and_territory,2019–20_Wuhan_coronavirus_outbreak_by_country_and_territory,other,"arts, culture and entertainment",233834,1,1059,2020,
+63347610,en.wikipedia.org/wiki/2019–20_coronavirus_outbreak_by_country_and_territory,2019–20_coronavirus_outbreak_by_country_and_territory,other,STEM,403328,1,1059,2020,
+63146949,en.wikipedia.org/wiki/2019–20_Wuhan_coronavirus_outbreak_by_country_and_territory,2019–20_Wuhan_coronavirus_outbreak_by_country_and_territory,other,STEM,233834,1,1059,2020,
 24261906,en.wikipedia.org/wiki/Index_of_Windows_games_(S),Index_of_Windows_games_(S),other,internet and game,55527,2,25,2009,Wikimedia list article
 57441660,en.wikipedia.org/wiki/Hunters_(2020_TV_series),Hunters_(2020_TV_series),other,"arts, culture and entertainment",280682,18,3272,2018,2020 television series
 59989555,en.wikipedia.org/wiki/Deontay_Wilder_vs._Tyson_Fury_II,Deontay_Wilder_vs._Tyson_Fury_II,other,sport,66853,13,2080,2019,2020 world championship boxing match
@@ -7804,7 +7804,7 @@ page_id,url,title,page_type,category,avg_views,avg_edits,words,creation_year,des
 62995635,en.wikipedia.org/wiki/Love_Is_Blind_(TV_series),Love_Is_Blind_(TV_series),other,"arts, culture and entertainment",214284,20,1232,2020,dating reality television series
 977446,en.wikipedia.org/wiki/Gulab_jamun,Gulab_jamun,other,other,35130,7,777,2004,milk-solid-based sweet from the Indian subcontinent
 63045502,en.wikipedia.org/wiki/The_Stranger_(miniseries),The_Stranger_(miniseries),other,"arts, culture and entertainment",57444,0,266,2020,
-63347702,en.wikipedia.org/wiki/2020_coronavirus_outbreak_in_Italy,2020_coronavirus_outbreak_in_Italy,other,"arts, culture and entertainment",253763,0,6631,2020,
+63347702,en.wikipedia.org/wiki/2020_coronavirus_outbreak_in_Italy,2020_coronavirus_outbreak_in_Italy,other,STEM,253763,0,6631,2020,
 1600272,en.wikipedia.org/wiki/Ryan_Newman_(racing_driver),Ryan_Newman_(racing_driver),biography,sport,27293,14,3891,2005,American racecar driver
 5503499,en.wikipedia.org/wiki/Hyun_Bin,Hyun_Bin,biography,"arts, culture and entertainment",101650,7,1783,2006,South Korean actor
 24255,en.wikipedia.org/wiki/Pandemic,Pandemic,other,STEM,132999,26,4903,2001,epidemic of infectious disease that has spread across a large region with global health impact
@@ -7821,7 +7821,7 @@ page_id,url,title,page_type,category,avg_views,avg_edits,words,creation_year,des
 62385292,en.wikipedia.org/wiki/Houston_Astros_sign_stealing_scandal,Houston_Astros_sign_stealing_scandal,other,sport,97088,53,7835,2019,illegal sign stealing by Major League Baseball's Houston Astros in 2017 and 2018 seasons
 53404555,en.wikipedia.org/wiki/WrestleMania_36,WrestleMania_36,other,"arts, culture and entertainment",147177,58,7809,2017,2020 WWE pay-per-view and WWE Network event
 62375680,en.wikipedia.org/wiki/Elimination_Chamber_(2020),Elimination_Chamber_(2020),other,"arts, culture and entertainment",148424,62,3360,2019,2020 WWE pay-per-view and WWE Network event
-63147045,en.wikipedia.org/wiki/Timeline_of_the_2019–20_Wuhan_coronavirus_outbreak,Timeline_of_the_2019–20_Wuhan_coronavirus_outbreak,other,"arts, culture and entertainment",102160,0,150,2020,
+63147045,en.wikipedia.org/wiki/Timeline_of_the_2019–20_Wuhan_coronavirus_outbreak,Timeline_of_the_2019–20_Wuhan_coronavirus_outbreak,other,STEM,102160,0,150,2020,
 16554851,en.wikipedia.org/wiki/Héctor_Luis_Palma_Salazar,Héctor_Luis_Palma_Salazar,biography,history and geography,42695,2,811,2008,Mexican drug trafficker
 2947031,en.wikipedia.org/wiki/Diana_Taylor_(superintendent),Diana_Taylor_(superintendent),biography,history and geography,25903,2,565,2005,American politician
 57963342,en.wikipedia.org/wiki/The_Call_of_the_Wild_(2020_film),The_Call_of_the_Wild_(2020_film),other,"arts, culture and entertainment",170626,30,1827,2018,2020 film by Chris Sanders
@@ -7870,11 +7870,11 @@ page_id,url,title,page_type,category,avg_views,avg_edits,words,creation_year,des
 63526453,en.wikipedia.org/wiki/Timeline_of_the_SARS_outbreak,Timeline_of_the_SARS_outbreak,other,"arts, culture and entertainment",21277,0,3816,2020,
 21207432,en.wikipedia.org/wiki/Shannen_Doherty,Shannen_Doherty,biography,"arts, culture and entertainment",123441,7,2186,2003,"actress, director"
 55777164,en.wikipedia.org/wiki/2020_NBA_All-Star_Game,2020_NBA_All-Star_Game,other,sport,30626,11,1503,2017,American basketball competition
-63851329,en.wikipedia.org/wiki/2019–20_coronavirus_pandemic,2019–20_coronavirus_pandemic,other,"arts, culture and entertainment",4104664,0,14323,2020,
-63852298,en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_India,2020_coronavirus_pandemic_in_India,other,"arts, culture and entertainment",1320540,0,7533,2020,
-63852218,en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_Italy,2020_coronavirus_pandemic_in_Italy,other,"arts, culture and entertainment",926660,0,6631,2020,
-63853038,en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_the_United_States,2020_coronavirus_pandemic_in_the_United_States,other,"arts, culture and entertainment",1224158,0,4538,2020,
-63851666,en.wikipedia.org/wiki/2019–20_coronavirus_pandemic_by_country_and_territory,2019–20_coronavirus_pandemic_by_country_and_territory,other,"arts, culture and entertainment",1341899,7,1059,2020,
+63851329,en.wikipedia.org/wiki/2019–20_coronavirus_pandemic,2019–20_coronavirus_pandemic,other,STEM,4104664,0,14323,2020,
+63852298,en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_India,2020_coronavirus_pandemic_in_India,other,STEM,1320540,0,7533,2020,
+63852218,en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_Italy,2020_coronavirus_pandemic_in_Italy,other,STEM,926660,0,6631,2020,
+63853038,en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_the_United_States,2020_coronavirus_pandemic_in_the_United_States,other,STEM,1224158,0,4538,2020,
+63851666,en.wikipedia.org/wiki/2019–20_coronavirus_pandemic_by_country_and_territory,2019–20_coronavirus_pandemic_by_country_and_territory,other,STEM,1341899,7,1059,2020,
 198584,en.wikipedia.org/wiki/Laptop,Laptop,other,STEM,125895,24,7799,2003,foldable portable personal computer for mobile use
 472573,en.wikipedia.org/wiki/Madam_C._J._Walker,Madam_C._J._Walker,biography,"arts, culture and entertainment",117479,20,2635,2004,American entrepreneur (1867-1919)
 555489,en.wikipedia.org/wiki/Andrew_Cuomo,Andrew_Cuomo,biography,history and geography,206739,21,7683,2004,56th Governor of New York
@@ -7883,15 +7883,15 @@ page_id,url,title,page_type,category,avg_views,avg_edits,words,creation_year,des
 265030,en.wikipedia.org/wiki/Kenny_Rogers,Kenny_Rogers,biography,"arts, culture and entertainment",144145,14,4409,2003,American country singer and songwriter (1938-2020)
 39999358,en.wikipedia.org/wiki/Zhong_Nanshan,Zhong_Nanshan,biography,other,50515,4,1040,2013,Chinese pulmonologist
 62786585,en.wikipedia.org/wiki/Severe_acute_respiratory_syndrome_coronavirus_2,Severe_acute_respiratory_syndrome_coronavirus_2,other,STEM,539255,259,2904,2020,strain of virus causing the ongoing pandemic of coronavirus disease 2019 (COVID-19)
-63852087,en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_Spain,2020_coronavirus_pandemic_in_Spain,other,"arts, culture and entertainment",420727,0,7838,2020,
-63852682,en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_Germany,2020_coronavirus_pandemic_in_Germany,other,"arts, culture and entertainment",377062,0,19584,2020,
-63851859,en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_Turkey,2020_coronavirus_pandemic_in_Turkey,other,"arts, culture and entertainment",286810,0,2899,2020,
+63852087,en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_Spain,2020_coronavirus_pandemic_in_Spain,other,STEM,420727,0,7838,2020,
+63852682,en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_Germany,2020_coronavirus_pandemic_in_Germany,other,STEM,377062,0,19584,2020,
+63851859,en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_Turkey,2020_coronavirus_pandemic_in_Turkey,other,STEM,286810,0,2899,2020,
 416945,en.wikipedia.org/wiki/Orthohantavirus,Orthohantavirus,other,STEM,69371,6,3084,2003,Genus of viruses
-63852462,en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_the_United_Kingdom,2020_coronavirus_pandemic_in_the_United_Kingdom,other,"arts, culture and entertainment",439308,0,14327,2020,
+63852462,en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_the_United_Kingdom,2020_coronavirus_pandemic_in_the_United_Kingdom,other,STEM,439308,0,14327,2020,
 63468915,en.wikipedia.org/wiki/Carole_Baskin,Carole_Baskin,biography,"arts, culture and entertainment",895789,29,1269,2020,American animal rights activist
 2335095,en.wikipedia.org/wiki/Chris_Cuomo,Chris_Cuomo,biography,"arts, culture and entertainment",147719,12,1076,2005,American journalist
-63851789,en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_Canada,2020_coronavirus_pandemic_in_Canada,other,"arts, culture and entertainment",322469,0,7386,2020,
-63852332,en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_Australia,2020_coronavirus_pandemic_in_Australia,other,"arts, culture and entertainment",329651,0,16953,2020,
+63851789,en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_Canada,2020_coronavirus_pandemic_in_Canada,other,STEM,322469,0,7386,2020,
+63852332,en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_Australia,2020_coronavirus_pandemic_in_Australia,other,STEM,329651,0,16953,2020,
 14532,en.wikipedia.org/wiki/Italy,Italy,other,history and geography,368162,51,21735,2001,country in Southern Europe
 2626290,en.wikipedia.org/wiki/A'Lelia_Walker,A'Lelia_Walker,biography,"arts, culture and entertainment",38159,2,1314,2005,American businesswoman
 59360221,en.wikipedia.org/wiki/Onward_(film),Onward_(film),other,"arts, culture and entertainment",233724,66,2912,2018,2020 computer-animated film directed by Dan Scanlon
@@ -7899,19 +7899,19 @@ page_id,url,title,page_type,category,avg_views,avg_edits,words,creation_year,des
 19167679,en.wikipedia.org/wiki/Virus,Virus,other,STEM,154665,10,9230,2001,"non-cellular, submicroscopic infectious agent that replicates only inside the living cells of an organism"
 63548104,en.wikipedia.org/wiki/2009_flu_pandemic_in_the_United_States,2009_flu_pandemic_in_the_United_States,other,STEM,27054,0,3873,2020,
 2866555,en.wikipedia.org/wiki/Influenza_A_virus_subtype_H1N1,Influenza_A_virus_subtype_H1N1,other,STEM,71843,7,2848,2005,"subtype of the influenza A virus, with some strains that are swine flue, others avian flue"
-63347646,en.wikipedia.org/wiki/2020_coronavirus_outbreak_in_the_United_States,2020_coronavirus_outbreak_in_the_United_States,other,"arts, culture and entertainment",170421,0,4538,2020,
-63852777,en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_Pakistan,2020_coronavirus_pandemic_in_Pakistan,other,"arts, culture and entertainment",239083,0,11893,2020,
+63347646,en.wikipedia.org/wiki/2020_coronavirus_outbreak_in_the_United_States,2020_coronavirus_outbreak_in_the_United_States,other,STEM,170421,0,4538,2020,
+63852777,en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_Pakistan,2020_coronavirus_pandemic_in_Pakistan,other,STEM,239083,0,11893,2020,
 731374,en.wikipedia.org/wiki/Wikipedia:Picture_of_the_day,Wikipedia:Picture_of_the_day,other,STEM,41883,0,523,2004,daily selection at Wikimedia Commons
-63853270,en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_the_Philippines,2020_coronavirus_pandemic_in_the_Philippines,other,"arts, culture and entertainment",209745,0,10311,2020,
+63853270,en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_the_Philippines,2020_coronavirus_pandemic_in_the_Philippines,other,STEM,209745,0,10311,2020,
 61787711,en.wikipedia.org/wiki/The_Platform_(film),The_Platform_(film),other,"arts, culture and entertainment",222944,20,1713,2019,2019 film directed by Galder Gaztelu-Urrutia
 1570321,en.wikipedia.org/wiki/Chloroquine,Chloroquine,other,STEM,42626,11,1970,2005,chemical compound
 40872327,en.wikipedia.org/wiki/Favipiravir,Favipiravir,other,STEM,34319,6,977,2013,experimental antiviral drug with potential activity against RNA viruses
-63853289,en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_Europe,2020_coronavirus_pandemic_in_Europe,other,"arts, culture and entertainment",186415,0,8759,2020,
+63853289,en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_Europe,2020_coronavirus_pandemic_in_Europe,other,STEM,186415,0,8759,2020,
 57771777,en.wikipedia.org/wiki/Spenser_Confidential,Spenser_Confidential,other,"arts, culture and entertainment",182734,10,1279,2018,2020 film directed by Peter Berg
 277935,en.wikipedia.org/wiki/Mario_Cuomo,Mario_Cuomo,biography,history and geography,82754,6,4328,2003,"American politician, Governor of New York, United States (1932–2015)"
 1438686,en.wikipedia.org/wiki/Joe_Diffie,Joe_Diffie,biography,"arts, culture and entertainment",32087,5,3639,2005,American country singer
-63852670,en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_France,2020_coronavirus_pandemic_in_France,other,"arts, culture and entertainment",266011,0,7304,2020,
-63854085,en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_South_Africa,2020_coronavirus_pandemic_in_South_Africa,other,"arts, culture and entertainment",229317,0,8329,2020,
+63852670,en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_France,2020_coronavirus_pandemic_in_France,other,STEM,266011,0,7304,2020,
+63854085,en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_South_Africa,2020_coronavirus_pandemic_in_South_Africa,other,STEM,229317,0,8329,2020,
 63238609,en.wikipedia.org/wiki/The_Trials_of_Gabriel_Fernandez,The_Trials_of_Gabriel_Fernandez,other,internet and game,123852,3,149,2020,2020 American documentary television series
 2645255,en.wikipedia.org/wiki/Stafford_Disaster_Relief_and_Emergency_Assistance_Act,Stafford_Disaster_Relief_and_Emergency_Assistance_Act,other,history and geography,22873,2,3845,2005,United States federal law designed to bring an orderly and systemic means of federal natural disaster assistance
 2297980,en.wikipedia.org/wiki/Hydroxychloroquine,Hydroxychloroquine,other,STEM,81126,14,1786,2005,chemical compound
@@ -7928,29 +7928,29 @@ page_id,url,title,page_type,category,avg_views,avg_edits,words,creation_year,des
 56794086,en.wikipedia.org/wiki/Bloodshot_(film),Bloodshot_(film),other,"arts, culture and entertainment",69631,21,1930,2017,2020 film by Dave Wilson
 3829190,en.wikipedia.org/wiki/Hand_sanitizer,Hand_sanitizer,other,STEM,45307,13,2934,2006,Alternative/supplement to hand washing. Destroys microorganisms/prevents transmission of pathogens.
 16392927,en.wikipedia.org/wiki/Bubonic_plague,Bubonic_plague,other,STEM,156742,4,3130,2008,human and animal disease; plague involving the lymphatic system
-63852057,en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_Sweden,2020_coronavirus_pandemic_in_Sweden,other,"arts, culture and entertainment",237893,0,12079,2020,
+63852057,en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_Sweden,2020_coronavirus_pandemic_in_Sweden,other,STEM,237893,0,12079,2020,
 63462597,en.wikipedia.org/wiki/Deborah_L._Birx,Deborah_L._Birx,other,"arts, culture and entertainment",21186,0,1586,2020,
 52322492,en.wikipedia.org/wiki/Remdesivir,Remdesivir,other,STEM,177064,26,4606,2016,chemical compound
 36928123,en.wikipedia.org/wiki/Kanika_Kapoor,Kanika_Kapoor,biography,"arts, culture and entertainment",51232,14,1680,2012,Indian playback singer
-63347723,en.wikipedia.org/wiki/2020_coronavirus_outbreak_in_Germany,2020_coronavirus_outbreak_in_Germany,other,"arts, culture and entertainment",105949,0,19584,2020,
+63347723,en.wikipedia.org/wiki/2020_coronavirus_outbreak_in_Germany,2020_coronavirus_outbreak_in_Germany,other,STEM,105949,0,19584,2020,
 62911727,en.wikipedia.org/wiki/Joe_Exotic,Joe_Exotic,biography,"arts, culture and entertainment",198813,54,2319,2020,"American zoo operator, internet personality, musician, and cult leader."
-63852168,en.wikipedia.org/wiki/2019–20_coronavirus_pandemic_in_mainland_China,2019–20_coronavirus_pandemic_in_mainland_China,other,"arts, culture and entertainment",181570,0,15198,2020,
+63852168,en.wikipedia.org/wiki/2019–20_coronavirus_pandemic_in_mainland_China,2019–20_coronavirus_pandemic_in_mainland_China,other,STEM,181570,0,15198,2020,
 63383063,en.wikipedia.org/wiki/Anthony_S._Fauci,Anthony_S._Fauci,other,"arts, culture and entertainment",23604,0,3673,2020,
 18961673,en.wikipedia.org/wiki/Mark_Blum,Mark_Blum,biography,"arts, culture and entertainment",24764,3,458,2008,American actor
-63853489,en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_Poland,2020_coronavirus_pandemic_in_Poland,other,"arts, culture and entertainment",285443,0,4653,2020,
+63853489,en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_Poland,2020_coronavirus_pandemic_in_Poland,other,STEM,285443,0,4653,2020,
 62579031,en.wikipedia.org/wiki/UFC_248,UFC_248,biography,sport,137113,24,547,2019,UFC mixed martial arts event in 2020
-63851913,en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_the_Netherlands,2020_coronavirus_pandemic_in_the_Netherlands,other,"arts, culture and entertainment",173723,0,2033,2020,
-63808044,en.wikipedia.org/wiki/2020_Italy_coronavirus_lockdown,2020_Italy_coronavirus_lockdown,other,"arts, culture and entertainment",123174,0,2584,2020,
+63851913,en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_the_Netherlands,2020_coronavirus_pandemic_in_the_Netherlands,other,STEM,173723,0,2033,2020,
+63808044,en.wikipedia.org/wiki/2020_Italy_coronavirus_lockdown,2020_Italy_coronavirus_lockdown,other,STEM,123174,0,2584,2020,
 7120152,en.wikipedia.org/wiki/Jyotiraditya_Scindia,Jyotiraditya_Scindia,biography,other,25842,12,919,2004,Indian politician
 76496,en.wikipedia.org/wiki/Max_von_Sydow,Max_von_Sydow,biography,"arts, culture and entertainment",98256,11,2552,2002,Swedish-French actor
 26270910,en.wikipedia.org/wiki/Greater_Wynnewood_Exotic_Animal_Park,Greater_Wynnewood_Exotic_Animal_Park,other,history and geography,36812,5,1302,2010,"Roadside zoo in Oklahoma, United States"
-63347715,en.wikipedia.org/wiki/2020_coronavirus_outbreak_in_Spain,2020_coronavirus_outbreak_in_Spain,other,"arts, culture and entertainment",83917,0,7838,2020,
+63347715,en.wikipedia.org/wiki/2020_coronavirus_outbreak_in_Spain,2020_coronavirus_outbreak_in_Spain,other,STEM,83917,0,7838,2020,
 733927,en.wikipedia.org/wiki/Outbreak_(film),Outbreak_(film),other,"arts, culture and entertainment",44049,5,1302,2004,1995 American medical disaster film directed by Wolfgang Petersen
 57652736,en.wikipedia.org/wiki/Doom_Eternal,Doom_Eternal,other,internet and game,101733,38,4064,2018,2020 first-person shooter video game developed by id Software
-63856375,en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_Romania,2020_coronavirus_pandemic_in_Romania,other,"arts, culture and entertainment",170940,0,6214,2020,
+63856375,en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_Romania,2020_coronavirus_pandemic_in_Romania,other,STEM,170940,0,6214,2020,
 419549,en.wikipedia.org/wiki/Sylvia_Browne,Sylvia_Browne,biography,"arts, culture and entertainment",40857,6,1643,2004,"American author, psychic and medium"
 6684873,en.wikipedia.org/wiki/Animal_Crossing,Animal_Crossing,other,internet and game,66023,14,2337,2006,video game series developed by Nintendo
-63348138,en.wikipedia.org/wiki/2020_coronavirus_outbreak_in_Europe,2020_coronavirus_outbreak_in_Europe,other,"arts, culture and entertainment",98306,0,8759,2020,
+63348138,en.wikipedia.org/wiki/2020_coronavirus_outbreak_in_Europe,2020_coronavirus_outbreak_in_Europe,other,STEM,98306,0,8759,2020,
 63040806,en.wikipedia.org/wiki/Li_Wenliang,Li_Wenliang,biography,other,24611,42,2148,2020,Chinese ophthalmologist known for warning about the coronavirus in December 2019
 63429758,en.wikipedia.org/wiki/Defense_Production_Act,Defense_Production_Act,other,"arts, culture and entertainment",12717,0,1324,2020,
 55207856,en.wikipedia.org/wiki/Martial_law_in_the_United_States,Martial_law_in_the_United_States,other,history and geography,47830,4,2848,2017,authorised military government in the United States
@@ -7959,7 +7959,7 @@ page_id,url,title,page_type,category,avg_views,avg_edits,words,creation_year,des
 12899361,en.wikipedia.org/wiki/Milicia_excelsa,Milicia_excelsa,other,STEM,12066,1,1242,2007,species of plant
 30075,en.wikipedia.org/wiki/Tiger,Tiger,other,STEM,205736,21,8289,2001,species of mammal
 458386,en.wikipedia.org/wiki/Urethral_sounding,Urethral_sounding,other,STEM,30725,2,201,2004,Placement of probe in urethra
-63347868,en.wikipedia.org/wiki/2020_coronavirus_outbreak_in_India,2020_coronavirus_outbreak_in_India,other,"arts, culture and entertainment",71621,0,7533,2020,
+63347868,en.wikipedia.org/wiki/2020_coronavirus_outbreak_in_India,2020_coronavirus_outbreak_in_India,other,STEM,71621,0,7533,2020,
 39430,en.wikipedia.org/wiki/Four_Horsemen_of_the_Apocalypse,Four_Horsemen_of_the_Apocalypse,other,"arts, culture and entertainment",192227,11,4701,2002,figures in the New Testament believed to start the apocalypse
 1774507,en.wikipedia.org/wiki/Fergus_Suter,Fergus_Suter,biography,sport,20551,1,496,2005,Scottish footballer (1857-1916)
 19533957,en.wikipedia.org/wiki/List_of_largest_daily_changes_in_the_Dow_Jones_Industrial_Average,List_of_largest_daily_changes_in_the_Dow_Jones_Industrial_Average,other,history and geography,34333,11,737,2008,Wikimedia list article
@@ -7967,14 +7967,14 @@ page_id,url,title,page_type,category,avg_views,avg_edits,words,creation_year,des
 31390463,en.wikipedia.org/wiki/Long_Island_serial_killer,Long_Island_serial_killer,biography,other,52960,11,2339,2011,unidentified serial killer
 47361,en.wikipedia.org/wiki/Dow_Jones_Industrial_Average,Dow_Jones_Industrial_Average,other,history and geography,244789,14,3484,2002,stock market index
 59754637,en.wikipedia.org/wiki/RuPaul's_Drag_Race_(season_12),RuPaul's_Drag_Race_(season_12),other,"arts, culture and entertainment",167043,84,4375,2019,season of television series
-63853372,en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_South_Korea,2020_coronavirus_pandemic_in_South_Korea,other,"arts, culture and entertainment",130048,0,6564,2020,
+63853372,en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_South_Korea,2020_coronavirus_pandemic_in_South_Korea,other,STEM,130048,0,6564,2020,
 58704503,en.wikipedia.org/wiki/Elite_(TV_series),Elite_(TV_series),other,"arts, culture and entertainment",112680,33,3753,2018,Spanish web series
 16829895,en.wikipedia.org/wiki/Smallpox,Smallpox,other,STEM,156590,9,9930,2001,eradicated human disease
 30874848,en.wikipedia.org/wiki/Kerry_Kennedy,Kerry_Kennedy,biography,history and geography,62144,2,2754,2004,human rights activist and writer from the United States
-63852717,en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_Mexico,2020_coronavirus_pandemic_in_Mexico,other,"arts, culture and entertainment",171168,0,9561,2020,
+63852717,en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_Mexico,2020_coronavirus_pandemic_in_Mexico,other,STEM,171168,0,9561,2020,
 57395269,en.wikipedia.org/wiki/All_American_(TV_series),All_American_(TV_series),other,"arts, culture and entertainment",128838,29,796,2018,2018 American television drama series
 62767412,en.wikipedia.org/wiki/I_Am_Not_Okay_with_This,I_Am_Not_Okay_with_This,other,"arts, culture and entertainment",133826,29,375,2020,American television series on Netflix
-63854077,en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_New_York_(state),2020_coronavirus_pandemic_in_New_York_(state),other,"arts, culture and entertainment",208024,0,12002,2020,
+63854077,en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_New_York_(state),2020_coronavirus_pandemic_in_New_York_(state),other,STEM,208024,0,12002,2020,
 298608,en.wikipedia.org/wiki/State_of_emergency,State_of_emergency,other,history and geography,46858,14,7422,2003,legal declaration or de facto acts by a government allowing assumption of extraordinary powers
 8331759,en.wikipedia.org/wiki/Human_body_temperature,Human_body_temperature,other,STEM,114257,8,2303,2006,typical temperature range found in humans
 31744838,en.wikipedia.org/wiki/List_of_dates_predicted_for_apocalyptic_events,List_of_dates_predicted_for_apocalyptic_events,other,"arts, culture and entertainment",125582,47,556,2011,Wikimedia list article
@@ -7982,13 +7982,13 @@ page_id,url,title,page_type,category,avg_views,avg_edits,words,creation_year,des
 61963799,en.wikipedia.org/wiki/Steven_Universe_Future,Steven_Universe_Future,other,"arts, culture and entertainment",85653,52,1943,2019,American animated television series
 39712205,en.wikipedia.org/wiki/Tedros_Adhanom,Tedros_Adhanom,biography,STEM,53189,14,4035,2013,"Ethiopian microbiologist, malaria researcher, and politician, Director-General of the World Health Organization"
 619728,en.wikipedia.org/wiki/Tangled,Tangled,other,"arts, culture and entertainment",95068,21,5729,2004,2010 computer-animated musical fantasy-comedy film by Disney
-63852704,en.wikipedia.org/wiki/Timeline_of_the_2019–20_coronavirus_pandemic,Timeline_of_the_2019–20_coronavirus_pandemic,other,"arts, culture and entertainment",97207,0,150,2020,
-63852711,en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_Switzerland,2020_coronavirus_pandemic_in_Switzerland,other,"arts, culture and entertainment",118250,0,1519,2020,
+63852704,en.wikipedia.org/wiki/Timeline_of_the_2019–20_coronavirus_pandemic,Timeline_of_the_2019–20_coronavirus_pandemic,other,STEM,97207,0,150,2020,
+63852711,en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_Switzerland,2020_coronavirus_pandemic_in_Switzerland,other,STEM,118250,0,1519,2020,
 51191895,en.wikipedia.org/wiki/Mari_Gilbert,Mari_Gilbert,biography,other,20460,1,211,2016,American activist
 19283335,en.wikipedia.org/wiki/Great_Depression,Great_Depression,other,history and geography,207274,10,12318,2001,20th-century worldwide economic depression
-63854439,en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_Iran,2020_coronavirus_pandemic_in_Iran,other,"arts, culture and entertainment",134889,0,8410,2020,
+63854439,en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_Iran,2020_coronavirus_pandemic_in_Iran,other,STEM,134889,0,8410,2020,
 815579,en.wikipedia.org/wiki/Sandra_Lee_(chef),Sandra_Lee_(chef),biography,"arts, culture and entertainment",50431,3,1052,2004,American chef
-63853505,en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_Russia,2020_coronavirus_pandemic_in_Russia,other,internet and game,173014,0,4449,2020,
+63853505,en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_Russia,2020_coronavirus_pandemic_in_Russia,other,STEM,173014,0,4449,2020,
 70838,en.wikipedia.org/wiki/Adrenochrome,Adrenochrome,other,STEM,86155,4,351,2002,chemical compound
 878899,en.wikipedia.org/wiki/USNS_Comfort_(T-AH-20),USNS_Comfort_(T-AH-20),other,history and geography,20136,4,2599,2004,hospital ship of the United States Navy
 6685908,en.wikipedia.org/wiki/Ramayan_(1987_TV_series),Ramayan_(1987_TV_series),other,"arts, culture and entertainment",41975,11,1705,2006,1987 TV series by Ramanand Sagar based on epic Ramayana
@@ -8002,20 +8002,20 @@ page_id,url,title,page_type,category,avg_views,avg_edits,words,creation_year,des
 25237,en.wikipedia.org/wiki/Quarantine,Quarantine,other,STEM,39995,11,7420,2001,"epidemiological intervention of restriction on the movement of people and goods, which is intended to prevent the spread of infectious disease or pests"
 61017442,en.wikipedia.org/wiki/Animal_Crossing:_New_Horizons,Animal_Crossing:_New_Horizons,other,internet and game,106070,34,3717,2019,2020 video game in the Animal Crossing franchise
 56824236,en.wikipedia.org/wiki/Little_Fires_Everywhere_(miniseries),Little_Fires_Everywhere_(miniseries),other,"arts, culture and entertainment",131195,11,756,2018,hulu original drama series
-63853501,en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_the_Czech_Republic,2020_coronavirus_pandemic_in_the_Czech_Republic,other,"arts, culture and entertainment",120624,0,8985,2020,
-63853596,en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_the_United_Arab_Emirates,2020_coronavirus_pandemic_in_the_United_Arab_Emirates,other,"arts, culture and entertainment",120328,0,4964,2020,
-63853271,en.wikipedia.org/wiki/Misinformation_related_to_the_2019–20_coronavirus_pandemic,Misinformation_related_to_the_2019–20_coronavirus_pandemic,other,"arts, culture and entertainment",109898,0,12405,2020,
+63853501,en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_the_Czech_Republic,2020_coronavirus_pandemic_in_the_Czech_Republic,other,STEM,120624,0,8985,2020,
+63853596,en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_the_United_Arab_Emirates,2020_coronavirus_pandemic_in_the_United_Arab_Emirates,other,STEM,120328,0,4964,2020,
+63853271,en.wikipedia.org/wiki/Misinformation_related_to_the_2019–20_coronavirus_pandemic,Misinformation_related_to_the_2019–20_coronavirus_pandemic,other,STEM,109898,0,12405,2020,
 62933148,en.wikipedia.org/wiki/Wuhan_Institute_of_Virology,Wuhan_Institute_of_Virology,other,STEM,110412,46,1101,2020,"facility in Wuhan, China"
 62906880,en.wikipedia.org/wiki/Huanan_Seafood_Wholesale_Market,Huanan_Seafood_Wholesale_Market,other,STEM,108449,35,1175,2020,"market in Wuhan, Hubei, China"
 292822,en.wikipedia.org/wiki/John_Prine,John_Prine,biography,"arts, culture and entertainment",83036,11,2893,2003,American country singer/songwriter
 22677497,en.wikipedia.org/wiki/Social_distancing,Social_distancing,other,STEM,20518,19,3953,2009,reduction of human social interaction in an effort to prevent the spread of infectious disease
 25510063,en.wikipedia.org/wiki/Madam_C._J._Walker_Manufacturing_Company,Madam_C._J._Walker_Manufacturing_Company,biography,"arts, culture and entertainment",35410,2,1026,2009,cosmetics manufacturer
 63102806,en.wikipedia.org/wiki/After_Hours_(The_Weeknd_album),After_Hours_(The_Weeknd_album),other,"arts, culture and entertainment",143031,117,3427,2020,2020 album by The Weeknd
-63347726,en.wikipedia.org/wiki/2020_coronavirus_outbreak_in_France,2020_coronavirus_outbreak_in_France,other,"arts, culture and entertainment",55047,0,7304,2020,
+63347726,en.wikipedia.org/wiki/2020_coronavirus_outbreak_in_France,2020_coronavirus_outbreak_in_France,other,STEM,55047,0,7304,2020,
 61588091,en.wikipedia.org/wiki/I_Still_Believe_(film),I_Still_Believe_(film),other,"arts, culture and entertainment",115432,26,2415,2019,2020 movie directed by Andrew and Jon Erwin
 81795,en.wikipedia.org/wiki/David_Byrne,David_Byrne,biography,"arts, culture and entertainment",81613,11,3341,2002,Scottish-American musician
 82981,en.wikipedia.org/wiki/Charles_Lindbergh,Charles_Lindbergh,biography,history and geography,111615,26,10022,2002,"American aviator, author, inventor, explorer, and social activist"
-63854151,en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_Morocco,2020_coronavirus_pandemic_in_Morocco,other,"arts, culture and entertainment",125115,0,2959,2020,
+63854151,en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_Morocco,2020_coronavirus_pandemic_in_Morocco,other,STEM,125115,0,2959,2020,
 62730461,en.wikipedia.org/wiki/Results_of_the_2020_Democratic_Party_presidential_primaries,Results_of_the_2020_Democratic_Party_presidential_primaries,other,history and geography,80654,105,758,2020,the results of the 2020 Democratic Party presidential primaries and caucuses
 2888063,en.wikipedia.org/wiki/Influenza_pandemic,Influenza_pandemic,other,STEM,23646,4,6353,2005,epidemic of an influenza virus that spreads on a worldwide scale and infects a large proportion of the human population
 56440839,en.wikipedia.org/wiki/Kannum_Kannum_Kollaiyadithaal,Kannum_Kannum_Kollaiyadithaal,other,"arts, culture and entertainment",52868,17,2491,2018,film
@@ -8024,11 +8024,11 @@ page_id,url,title,page_type,category,avg_views,avg_edits,words,creation_year,des
 2530301,en.wikipedia.org/wiki/Lockdown,Lockdown,other,STEM,24971,5,1424,2005,"emergency protocol that prevents people or information from leaving an area, usually only initiated by someone in a position of authority"
 219354,en.wikipedia.org/wiki/Surgeon_General_of_the_United_States,Surgeon_General_of_the_United_States,other,history and geography,41987,4,846,2003,position
 60917617,en.wikipedia.org/wiki/List_of_most-followed_TikTok_accounts,List_of_most-followed_TikTok_accounts,other,"arts, culture and entertainment",218813,60,268,2019,Wikipedia list article
-63852725,en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_the_Republic_of_Ireland,2020_coronavirus_pandemic_in_the_Republic_of_Ireland,other,internet and game,120514,0,4872,2020,
+63852725,en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_the_Republic_of_Ireland,2020_coronavirus_pandemic_in_the_Republic_of_Ireland,other,STEM,120514,0,4872,2020,
 58766125,en.wikipedia.org/wiki/Lost_Girls_(film),Lost_Girls_(film),other,"arts, culture and entertainment",46233,2,393,2018,American drama mystery film
 18216495,en.wikipedia.org/wiki/Iliza_Shlesinger,Iliza_Shlesinger,biography,"arts, culture and entertainment",72640,4,838,2008,American stand-up comedian
 63499859,en.wikipedia.org/wiki/Annie_Malone,Annie_Malone,other,internet and game,13337,0,1117,2020,
-63851988,en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_Portugal,2020_coronavirus_pandemic_in_Portugal,other,"arts, culture and entertainment",102566,0,731,2020,
+63851988,en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_Portugal,2020_coronavirus_pandemic_in_Portugal,other,STEM,102566,0,731,2020,
 32966695,en.wikipedia.org/wiki/Waffle_House_Index,Waffle_House_Index,other,other,35167,3,501,2011,informal metric used in the United States to determine the effect of a storm
 33834598,en.wikipedia.org/wiki/Rudy_Gobert,Rudy_Gobert,biography,sport,38914,13,2185,2011,French basketball player
 61809742,en.wikipedia.org/wiki/Special_OPS,Special_OPS,other,"arts, culture and entertainment",132371,19,1173,2019,Indian web series
@@ -8036,7 +8036,7 @@ page_id,url,title,page_type,category,avg_views,avg_edits,words,creation_year,des
 63887046,en.wikipedia.org/wiki/Devs_(miniseries),Devs_(miniseries),other,"arts, culture and entertainment",52755,0,831,2020,
 403293,en.wikipedia.org/wiki/Chris_Benoit,Chris_Benoit,biography,"arts, culture and entertainment",145664,10,6161,2003,Canadian professional wrestler (1967-2007)
 314544,en.wikipedia.org/wiki/Black_Monday_(1987),Black_Monday_(1987),other,history and geography,54281,10,3851,2003,"world stock market crash of Monday, October 19, 1987"
-63853408,en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_Karnataka,2020_coronavirus_pandemic_in_Karnataka,other,"arts, culture and entertainment",192928,0,2669,2020,
+63853408,en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_Karnataka,2020_coronavirus_pandemic_in_Karnataka,other,STEM,192928,0,2669,2020,
 24500300,en.wikipedia.org/wiki/Yoel_Romero,Yoel_Romero,biography,sport,89047,18,2498,2009,Cuban mixed martial artist and freestyle wrestler
 1109927,en.wikipedia.org/wiki/Colin_McRae,Colin_McRae,biography,sport,33400,3,3731,2004,British racing driver
 55860919,en.wikipedia.org/wiki/Matilda_Cuomo,Matilda_Cuomo,biography,other,33867,3,960,2017,former First Lady of New York State
@@ -8046,8 +8046,8 @@ page_id,url,title,page_type,category,avg_views,avg_edits,words,creation_year,des
 69058,en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population,List_of_countries_and_dependencies_by_population,other,other,239563,118,318,2002,Wikimedia list article
 47741856,en.wikipedia.org/wiki/Lil_Dicky,Lil_Dicky,biography,"arts, culture and entertainment",110891,18,1265,2014,American rapper and comedian from Pennsylvania
 1321363,en.wikipedia.org/wiki/Peter_Whittingham,Peter_Whittingham,biography,sport,13500,6,1959,2004,English footballer (1984–2020)
-63356947,en.wikipedia.org/wiki/2020_coronavirus_outbreak_in_the_United_Kingdom,2020_coronavirus_outbreak_in_the_United_Kingdom,other,"arts, culture and entertainment",49774,0,14327,2020,
-63347750,en.wikipedia.org/wiki/2020_coronavirus_outbreak_in_the_Netherlands,2020_coronavirus_outbreak_in_the_Netherlands,other,"arts, culture and entertainment",44324,0,2033,2020,
+63356947,en.wikipedia.org/wiki/2020_coronavirus_outbreak_in_the_United_Kingdom,2020_coronavirus_outbreak_in_the_United_Kingdom,other,STEM,49774,0,14327,2020,
+63347750,en.wikipedia.org/wiki/2020_coronavirus_outbreak_in_the_Netherlands,2020_coronavirus_outbreak_in_the_Netherlands,other,STEM,44324,0,2033,2020,
 602643,en.wikipedia.org/wiki/New_World_Order_(conspiracy_theory),New_World_Order_(conspiracy_theory),other,"arts, culture and entertainment",142756,4,10551,2004,conspiracy theory
 1097646,en.wikipedia.org/wiki/Georgia_Guidestones,Georgia_Guidestones,other,other,99426,8,1411,2004,"monument in Georgia, United States"
 63808054,en.wikipedia.org/wiki/2020_Hubei_lockdowns,2020_Hubei_lockdowns,other,"arts, culture and entertainment",70113,0,2640,2020,
@@ -8093,17 +8093,17 @@ page_id,url,title,page_type,category,avg_views,avg_edits,words,creation_year,des
 33253259,en.wikipedia.org/wiki/Shiva_Ayyadurai,Shiva_Ayyadurai,biography,STEM,70534,21,3404,2011,Indian inventor
 1311069,en.wikipedia.org/wiki/The_Clark_Sisters,The_Clark_Sisters,biography,"arts, culture and entertainment",26428,6,2593,2004,American gospel vocal group
 1493272,en.wikipedia.org/wiki/Adam_Schlesinger,Adam_Schlesinger,biography,"arts, culture and entertainment",29806,7,1423,2005,American musician
-63853475,"en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_Punjab,_India","2020_coronavirus_pandemic_in_Punjab,_India",other,"arts, culture and entertainment",160888,0,2014,2020,
+63853475,"en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_Punjab,_India","2020_coronavirus_pandemic_in_Punjab,_India",other,STEM,160888,0,2014,2020,
 51422220,en.wikipedia.org/wiki/Kenya_Barris,Kenya_Barris,biography,"arts, culture and entertainment",40851,4,352,2016,American screenwriter
 55446307,en.wikipedia.org/wiki/Thomas_Modly,Thomas_Modly,biography,history and geography,27572,11,979,2017,
-63853448,en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_Maharashtra,2020_coronavirus_pandemic_in_Maharashtra,other,"arts, culture and entertainment",153371,0,2081,2020,
+63853448,en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_Maharashtra,2020_coronavirus_pandemic_in_Maharashtra,other,STEM,153371,0,2081,2020,
 53659543,en.wikipedia.org/wiki/Trolls_World_Tour,Trolls_World_Tour,other,"arts, culture and entertainment",117356,49,2186,2017,2020 animated film directed by Walter Dohrn
 61127690,en.wikipedia.org/wiki/The_King:_Eternal_Monarch,The_King:_Eternal_Monarch,other,"arts, culture and entertainment",221953,74,2200,2019,2020 South Korean TV series
 45111627,en.wikipedia.org/wiki/Starlink,Starlink,other,history and geography,46986,32,5512,2015,satellite constellation; space-based internet communication system
 19718837,en.wikipedia.org/wiki/Kim_Il-sung,Kim_Il-sung,biography,history and geography,107491,27,5857,2001,President of the Democratic People's Republic of Korea (1912-1994)
 63526871,en.wikipedia.org/wiki/Bhagavan_Antle,Bhagavan_Antle,other,internet and game,108143,1,517,2020,
 4643936,en.wikipedia.org/wiki/Gretchen_Whitmer,Gretchen_Whitmer,biography,history and geography,66079,17,2447,2006,49th Governor of Michigan
-63860205,en.wikipedia.org/wiki/2020_coronavirus_lockdown_in_India,2020_coronavirus_lockdown_in_India,other,"arts, culture and entertainment",113662,0,4436,2020,
+63860205,en.wikipedia.org/wiki/2020_coronavirus_lockdown_in_India,2020_coronavirus_lockdown_in_India,other,STEM,113662,0,4436,2020,
 501385,en.wikipedia.org/wiki/Ruby_Ridge,Ruby_Ridge,other,history and geography,117671,10,6779,2004,"1992 standoff in Boundary County, Idaho, United States, that resulted in three human fatalities"
 58293055,en.wikipedia.org/wiki/Irrfan_Khan_filmography,Irrfan_Khan_filmography,other,"arts, culture and entertainment",53493,9,309,2018,Filmography of Indian actor Irrfan Khan
 18707123,en.wikipedia.org/wiki/Carmen_Electra,Carmen_Electra,biography,"arts, culture and entertainment",128598,3,1802,2001,American actress and media personality
@@ -8182,7 +8182,7 @@ page_id,url,title,page_type,category,avg_views,avg_edits,words,creation_year,des
 508001,en.wikipedia.org/wiki/Kim_Jong-chul,Kim_Jong-chul,biography,other,30933,2,592,2004,son of Kim Jong-il
 57061150,en.wikipedia.org/wiki/Aitana_(singer),Aitana_(singer),biography,"arts, culture and entertainment",59399,21,1879,2018,Spanish singer
 6686251,en.wikipedia.org/wiki/Arun_Govil,Arun_Govil,biography,"arts, culture and entertainment",26075,5,689,2006,Indian actor
-63853533,en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_West_Bengal,2020_coronavirus_pandemic_in_West_Bengal,other,"arts, culture and entertainment",62968,0,1803,2020,
+63853533,en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_West_Bengal,2020_coronavirus_pandemic_in_West_Bengal,other,STEM,62968,0,1803,2020,
 18504722,en.wikipedia.org/wiki/Love_Never_Dies_(musical),Love_Never_Dies_(musical),other,"arts, culture and entertainment",31308,6,10165,2008,musical
 52756,en.wikipedia.org/wiki/Final_Fantasy_VII,Final_Fantasy_VII,other,internet and game,68676,22,11218,2002,1997 video game
 454754,en.wikipedia.org/wiki/Stanley_Tucci,Stanley_Tucci,biography,"arts, culture and entertainment",183462,8,2395,2004,"American actor, writer, film producer and film director"
@@ -8196,10 +8196,10 @@ page_id,url,title,page_type,category,avg_views,avg_edits,words,creation_year,des
 240942,en.wikipedia.org/wiki/Jerry_Stiller,Jerry_Stiller,biography,"arts, culture and entertainment",117117,13,1346,2003,"American comedian, actor, and author (1927-2020)"
 51304470,en.wikipedia.org/wiki/Kayleigh_McEnany,Kayleigh_McEnany,biography,"arts, culture and entertainment",161484,19,2255,2012,American political commentator and writer
 45236366,en.wikipedia.org/wiki/Diriliş:_Ertuğrul,Diriliş:_Ertuğrul,other,"arts, culture and entertainment",134677,32,2498,2015,Turkish television series
-63265538,en.wikipedia.org/wiki/COVID-19_pandemic_in_India,COVID-19_pandemic_in_India,other,history and geography,557005,173,7533,2020,ongoing coronavirus pandemic in India
+63265538,en.wikipedia.org/wiki/COVID-19_pandemic_in_India,COVID-19_pandemic_in_India,other,STEM,557005,173,7533,2020,ongoing coronavirus pandemic in India
 61660660,en.wikipedia.org/wiki/Hollywood_(miniseries),Hollywood_(miniseries),other,"arts, culture and entertainment",314752,27,586,2019,2020 Netflix TV series
 62581056,en.wikipedia.org/wiki/UFC_249,UFC_249,biography,sport,238175,69,1459,2019,2020 UFC pay-per-view event
-62938755,en.wikipedia.org/wiki/COVID-19_pandemic_by_country_and_territory,COVID-19_pandemic_by_country_and_territory,other,history and geography,1334133,430,1059,2020,details regarding the COVID-19 pandemic by country and territory
+62938755,en.wikipedia.org/wiki/COVID-19_pandemic_by_country_and_territory,COVID-19_pandemic_by_country_and_territory,other,STEM,1334133,430,1059,2020,details regarding the COVID-19 pandemic by country and territory
 63136490,en.wikipedia.org/wiki/COVID-19_pandemic_in_the_United_States,COVID-19_pandemic_in_the_United_States,other,STEM,673767,1173,4538,2020,ongoing coronavirus pandemic in the United States
 61981716,en.wikipedia.org/wiki/Normal_People_(TV_series),Normal_People_(TV_series),other,"arts, culture and entertainment",214108,32,1321,2019,Hulu and BBC Three television series
 215650,en.wikipedia.org/wiki/Ertuğrul,Ertuğrul,biography,history and geography,92133,12,768,2003,"Ottoman ruler, father of Osman I"
@@ -8211,7 +8211,7 @@ page_id,url,title,page_type,category,avg_views,avg_edits,words,creation_year,des
 63854848,en.wikipedia.org/wiki/Paatal_Lok,Paatal_Lok,other,"arts, culture and entertainment",228024,14,3280,2020,a Hindi crime thriller web television series
 327437,en.wikipedia.org/wiki/Israel_Kamakawiwoʻole,Israel_Kamakawiwoʻole,biography,"arts, culture and entertainment",126884,11,2013,2003,Hawaiian recording artist; musician.
 52152062,en.wikipedia.org/wiki/Candy_Ken,Candy_Ken,biography,"arts, culture and entertainment",58013,7,493,2016,Austrian rapper
-63436230,"en.wikipedia.org/wiki/COVID-19_pandemic_in_Punjab,_India","COVID-19_pandemic_in_Punjab,_India",other,history and geography,321012,386,2014,2020,"vital outbreak in Punjab, India"
+63436230,"en.wikipedia.org/wiki/COVID-19_pandemic_in_Punjab,_India","COVID-19_pandemic_in_Punjab,_India",other,STEM,321012,386,2014,2020,"vital outbreak in Punjab, India"
 64326167,en.wikipedia.org/wiki/The_Last_Dance_(TV_series),The_Last_Dance_(TV_series),other,"arts, culture and entertainment",156197,0,1346,2020,
 58018047,en.wikipedia.org/wiki/Upload_(TV_series),Upload_(TV_series),other,"arts, culture and entertainment",63092,9,397,2018,web television series
 15043,en.wikipedia.org/wiki/International_Space_Station,International_Space_Station,other,history and geography,184729,41,15423,2001,habitable artificial satellite in low Earth orbit
@@ -8282,11 +8282,11 @@ page_id,url,title,page_type,category,avg_views,avg_edits,words,creation_year,des
 3084576,en.wikipedia.org/wiki/List_of_mobile_phone_brands_by_country,List_of_mobile_phone_brands_by_country,other,history and geography,274368,28,33,2005,Wikimedia list article
 8821313,en.wikipedia.org/wiki/Jeffrey_Jordan,Jeffrey_Jordan,biography,sport,43852,2,368,2007,"American college basketball player, one of the sons of basketball player Michael Jordan"
 6097240,en.wikipedia.org/wiki/Minneapolis,Minneapolis,other,history and geography,103339,34,7543,2001,"largest city in Minnesota, U.S., county seat of Hennepin County"
-66251323,en.wikipedia.org/wiki/COVID-19_pandemic_lockdown_in_India,COVID-19_pandemic_lockdown_in_India,other,"arts, culture and entertainment",236334,,4436,2020,
+66251323,en.wikipedia.org/wiki/COVID-19_pandemic_lockdown_in_India,COVID-19_pandemic_lockdown_in_India,other,STEM,236334,,4436,2020,
 62021044,en.wikipedia.org/wiki/MasterChef_Australia_(series_12),MasterChef_Australia_(series_12),other,"arts, culture and entertainment",230450,221,724,2019,TV series season of MasterChef Australia
 1549374,en.wikipedia.org/wiki/Ken_Osmond,Ken_Osmond,biography,"arts, culture and entertainment",25042,4,1644,2005,American actor and police officer (1943-2020)
 61781607,en.wikipedia.org/wiki/Thappad,Thappad,other,"arts, culture and entertainment",111870,43,1152,2019,2020 film directed by Anubhav Sinha
-63182945,en.wikipedia.org/wiki/COVID-19_pandemic_in_Italy,COVID-19_pandemic_in_Italy,other,history and geography,182874,276,6631,2020,ongoing coronavirus pandemic in Italy
+63182945,en.wikipedia.org/wiki/COVID-19_pandemic_in_Italy,COVID-19_pandemic_in_Italy,other,STEM,182874,276,6631,2020,ongoing coronavirus pandemic in Italy
 48517622,en.wikipedia.org/wiki/Alexander_Dreymon,Alexander_Dreymon,biography,"arts, culture and entertainment",66170,2,204,2015,German actor and film actor
 18931507,en.wikipedia.org/wiki/Henry_Cejudo,Henry_Cejudo,biography,sport,60310,19,2701,2005,American mixed martial artist and Olympic wrestler
 4687626,en.wikipedia.org/wiki/Andre_Harrell,Andre_Harrell,biography,"arts, culture and entertainment",13096,3,566,2006,American rapper and music executive
@@ -9232,5 +9232,5 @@ page_id,url,title,page_type,category,avg_views,avg_edits,words,creation_year,des
 3517560,en.wikipedia.org/wiki/Jason_Garrett,Jason_Garrett,biography,sport,54771,14,2233,2005,
 544568,en.wikipedia.org/wiki/Ja'Net_DuBois,Ja'Net_DuBois,biography,"arts, culture and entertainment",15268,13,841,2004,
 39532251,en.wikipedia.org/wiki/Middle_East_respiratory_syndrome,Middle_East_respiratory_syndrome,other,STEM,26149,6,2785,2013,
-63854137,en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_Bangladesh,2020_coronavirus_pandemic_in_Bangladesh,other,"arts, culture and entertainment",92324,0,5912,2020,
+63854137,en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_Bangladesh,2020_coronavirus_pandemic_in_Bangladesh,other,STEM,92324,0,5912,2020,
 62926047,en.wikipedia.org/wiki/Hospital_Playlist,Hospital_Playlist,other,other,151846,32,761,2020,
